@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @ScriptKod
 - 👀 I’m interested in Coding and Maths
-- 🌱 I’m currently learning Java3
+- 🌱 I’m currently learning Javascript 
+
 - 💞️ I’m looking to collaborate on 🤷‍♂️🤷‍♂️
 - 📫 How to reach me kwartengberko@gmail.com 
 
